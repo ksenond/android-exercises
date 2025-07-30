@@ -1,3 +1,5 @@
+Kseniia Dmitrieva 001760129
+
 10.7.2025
 I began the Mobile Development module by reviewing the course information and watching the first video.
 I installed Android Studio and created my first basic project. 
