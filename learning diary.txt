@@ -32,7 +32,7 @@ A Surprise button on the video screen that displays a GIF of a cat.
 An interesting facts button that takes you to the URL address with bunch of facts about cats.
 This helped me learn how to work with ListView, ImageView, Intent, Media, and GIFs. I also started writing the README and preparing a screen recording for submission.
 
-25.7.2025
+30.7.2025
 I finalized the project. 
 I tested everything thoroughly and fixed a few layout issues. 
 I recorded a video of the app in action and uploaded it to YouTube. 
