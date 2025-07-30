@@ -1,0 +1,42 @@
+10.7.2025
+I began the Mobile Development module by reviewing the course information and watching the first video.
+I installed Android Studio and created my first basic project. 
+I also created a Git repository for the course and committed the initial files. 
+Setting up the Android emulator and understanding the project structure was new to me, but it started making sense after some trial and error.
+
+11.7.2025
+I followed the instructions in Part 1 of the course and created a simple calculator app (Exercise 2). 
+It performs addition, subtraction, and multiplication. 
+I also added a custom background to practice working with layout and UI design. 
+I learned how to use buttons, text fields, and the layout editor in Android Studio. 
+I tested the app on different devices using the emulator.
+
+13.7.2025
+Today I began planning the main idea for my final project. 
+I wanted to build a cat-themed app with multiple screens and interactive features. 
+I also completed another exercise app that had buttons that changed images, navigated to another screen, and showed a message on button press, as well as take you to the URL address. 
+I practiced using Intent, startActivity, and updating UI elements dynamically.
+
+16.7.2025
+I worked on Part 2 of the module, learning about core Android elements such as Activities, Intents, Services, and BroadcastReceivers. 
+I started building the main framework for my final project, setting up the navigation between different screens using buttons and intents. 
+I started experimenting with image uploads and layouts.
+
+20.7.2025
+I added major features to the final app:
+A species screen with a ListView showing different cat species and images.
+A my cat screen where the user can upload a photo and give their cat a name (using an image picker).
+A photos screen with multiple circular image buttons—when you tap them, they show different cat images.
+A video screen with buttons like Cute, Funny, Crazy that each open a specific YouTube video using an implicit intent.
+A Surprise button on the video screen that displays a GIF of a cat.
+An interesting facts button that takes you to the URL address with bunch of facts about cats.
+This helped me learn how to work with ListView, ImageView, Intent, Media, and GIFs. I also started writing the README and preparing a screen recording for submission.
+
+25.7.2025
+I finalized the project. 
+I tested everything thoroughly and fixed a few layout issues. 
+I recorded a video of the app in action and uploaded it to YouTube. 
+I added the video link to a README file and pushed all files to GitHub. 
+I completed this Learning Diary and included all necessary instructions in the README file. 
+Overall, I learned a lot about Android development, especially working with layouts, navigation, user input, and media.
+
