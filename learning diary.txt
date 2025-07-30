@@ -16,6 +16,7 @@ Today I began planning the main idea for my final project.
 I wanted to build a cat-themed app with multiple screens and interactive features. 
 I also completed another exercise app that had buttons that changed images, navigated to another screen, and showed a message on button press, as well as take you to the URL address. 
 I practiced using Intent, startActivity, and updating UI elements dynamically.
+I watched the third part of the video tutorial about ListView, and decided to not create a different exercise, but to implement learnt information directly into my app.
 
 16.7.2025
 I worked on Part 2 of the module, learning about core Android elements such as Activities, Intents, Services, and BroadcastReceivers. 
